@@ -26,14 +26,14 @@ There aren't many resources related to MLOps included in this repository since I
 
 # Curriculum
 ## Foundations
-(AI for Everyone by Coursera)[https://www.coursera.org/learn/ai-for-everyone]
-(Mathematics for Machine Learning and Data Science Specialization by Coursera)[https://www.coursera.org/specializations/mathematics-for-machine-learning-and-data-science]
-(CS50’s Introduction to Computer Science)[https://www.edx.org/learn/computer-science/harvard-university-cs50-s-introduction-to-computer-science]
+[AI for Everyone by Coursera](https://www.coursera.org/learn/ai-for-everyone)
+[Mathematics for Machine Learning and Data Science Specialization by Coursera](https://www.coursera.org/specializations/mathematics-for-machine-learning-and-data-science)
+[CS50’s Introduction to Computer Science](https://www.edx.org/learn/computer-science/harvard-university-cs50-s-introduction-to-computer-science)
 
 ## Machine Learning
-(Machine Learning Specialization by DeepLearningAI x Stanford)[https://www.coursera.org/specializations/machine-learning-introduction]
+[Machine Learning Specialization by DeepLearningAI x Stanford](https://www.coursera.org/specializations/machine-learning-introduction)
 OR
-(Introduction to Machine Learning by Sebastian Raschka)[https://sebastianraschka.com/blog/2021/ml-course.html]
+[Introduction to Machine Learning by Sebastian Raschka](https://sebastianraschka.com/blog/2021/ml-course.html)
 
 
 
