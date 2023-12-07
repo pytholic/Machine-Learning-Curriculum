@@ -4,7 +4,7 @@ One question that has frequently come my way lately is, “_How can one embark 
 After careful consideration, I’ve crafted a straightforward yet potent A-to-Z curriculum. This guide is designed to be inclusive, catering to individuals with diverse backgrounds — whether they are newcomers to the field or professionals seeking a career shift. These resources can also be beneficial for advanced ML engineers who want to refresh some concepts.
 
 # Structure
-The structure of this guide is deliberate and includes a personally curated list of online courses. Since this repository is beginner-friendly, I only included important structured courses in the main curriculum because they are organized and easier to follow. Additional resources will be added in separate sections. Take the main curriculum courses sequentially for better understanding.
+The structure of this guide is deliberate and includes a personally curated list of online courses. Since this repository is beginner-friendly, I only included important structured courses in the main curriculum because they are organized and easier to follow. Additional resources will be added in separate sections. Take the main curriculum courses in order for better understanding.
 
 # Contributions
 This repository is open to all kinds of contributions related to the **machine learning** journey. However, there are some considerations:
@@ -39,6 +39,31 @@ OR
 
 [Introduction to Machine Learning by Sebastian Raschka](https://sebastianraschka.com/blog/2021/ml-course.html)
 
+## Deep Learning
+[CS231N: Convolutional Neural Networks for Visual Recognition by Stanford](https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PLC1qU-LWwrF64f4QKQT-Vg5Wr4qEE1Zxk)
 
+[Introduction to Deep Learning by Sebastian Raschka](https://sebastianraschka.com/blog/2021/dl-course.html)
 
+[CS224N: Natural Language Processing with Deep Learning by Stanford](https://www.youtube.com/watch?v=rmVRLeJRkl4&list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ)
+
+[Full Stack Deep Learning](https://fullstackdeeplearning.com/course/2022/)
+
+# Reference Books
+[Machine Learning with PyTorch and Scikit-Learn by Sebastian Raschka , Yuxi (Hayden) Liu , Vahid Mirjalili](https://www.packtpub.com/product/machine-learning-with-pytorch-and-scikit-learn/9781801819312)
+
+[Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow, 3rd Edition by Aurélien Géron](https://www.oreilly.com/library/view/hands-on-machine-learning/9781098125967/)
+
+# Additional Resources
+## Courses
+[Deep Learning Specialization by DeepLearningAI](https://www.coursera.org/specializations/deep-learning
+
+[MIT 6.S191: Introduction to Deep Learning](https://www.youtube.com/watch?v=QDX-1M5Nj7s&list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI)
+
+[Deep Learning Fundamentals — Learning Deep Learning With a Modern Open Source Stack](https://lightning.ai/courses/deep-learning-fundamentals/)
+
+[Practical Deep Learning for Coders](https://course.fast.ai/)
+
+[Introduction to Reinforcement Learning by Deepmind](https://www.youtube.com/watch?v=2pWv7GOvuf0&list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ&ab_channel=GoogleDeepMind)
+
+[CS50’s Introduction to Artificial Intelligence with Python](https://pll.harvard.edu/course/cs50s-introduction-artificial-intelligence-python)
 
