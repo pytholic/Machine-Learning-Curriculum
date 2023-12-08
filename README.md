@@ -16,7 +16,7 @@ This repository is open to all kinds of contributions related to the **machine l
 
 # Note 📝
 - There aren't many resources related to MLOps included in this repository since I am planning to create a separate repository for that.
--_ Practical resources and projects coming soon._
+- *Practical resources and projects coming soon.*
 
 # Some Tips 🔎
 - AI learning is a journey, not a sprint; success requires resisting impatience, embracing challenges, and fostering a deep understanding of AI principles despite the temptation for quick results.
