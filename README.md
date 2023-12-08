@@ -35,8 +35,6 @@ There aren't many resources related to MLOps included in this repository since I
 ## Machine Learning
 [Machine Learning Specialization by DeepLearningAI x Stanford](https://www.coursera.org/specializations/machine-learning-introduction)
 
-OR
-
 [Introduction to Machine Learning by Sebastian Raschka](https://sebastianraschka.com/blog/2021/ml-course.html)
 
 ## Deep Learning
