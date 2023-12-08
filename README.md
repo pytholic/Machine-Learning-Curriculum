@@ -48,7 +48,7 @@ OR
 
 [Full Stack Deep Learning](https://fullstackdeeplearning.com/course/2022/)
 
-# Reference Books
+# Reference Books 📂
 [Machine Learning with PyTorch and Scikit-Learn by Sebastian Raschka , Yuxi (Hayden) Liu , Vahid Mirjalili](https://www.packtpub.com/product/machine-learning-with-pytorch-and-scikit-learn/9781801819312)
 
 [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow, 3rd Edition by Aurélien Géron](https://www.oreilly.com/library/view/hands-on-machine-learning/9781098125967/)
