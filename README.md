@@ -82,6 +82,8 @@ There aren't many resources related to MLOps included in this repository since I
 
 [Lightning AI](https://www.youtube.com/@PyTorchLightning)
 
+[IBM Technology](https://www.youtube.com/@IBMTechnology)
+
 [Sentdex](https://www.youtube.com/@sentdex)
 
 [Aleksa Gordić - The AI Epiphany](https://www.youtube.com/@TheAIEpiphany)
