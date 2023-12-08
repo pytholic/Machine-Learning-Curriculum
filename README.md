@@ -134,3 +134,5 @@ This repository is open to all kinds of contributions related to the **machine l
 
 [The Ai Edge](https://newsletter.theaiedge.io/)
 
+# Contributors
+- [pytholic](https://github.com/pytholic)
