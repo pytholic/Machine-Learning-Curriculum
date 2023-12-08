@@ -57,6 +57,8 @@ This repository is open to all kinds of contributions related to the **machine l
 
 [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow, 3rd Edition by Aurélien Géron](https://www.oreilly.com/library/view/hands-on-machine-learning/9781098125967/)
 
+[Mathematics for Machine Learning](https://mml-book.github.io/)
+
 ---
 
 # Additional Resources 🗞️
@@ -80,6 +82,7 @@ This repository is open to all kinds of contributions related to the **machine l
 [Introduction to Reinforcement Learning by Deepmind](https://www.youtube.com/watch?v=2pWv7GOvuf0&list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ&ab_channel=GoogleDeepMind)
 
 [CS50’s Introduction to Artificial Intelligence with Python](https://pll.harvard.edu/course/cs50s-introduction-artificial-intelligence-python)
+
 
 ## Youtube Channels
 [3Blue1Brown](https://www.youtube.com/@3blue1brown)
