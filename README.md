@@ -10,7 +10,7 @@ The structure of this guide is deliberate and includes a personally curated list
 This repository is open to all kinds of contributions related to the **machine learning** journey. However, there are some considerations:
 - Since the purpose here is to make a straightforward guide, additional courses, and books won't be added to the main curriculum. Rather they will be added in a separate section.
 - If a course meets standards, it will become a part of the main curriculum.
-- Resources can include both free and paid courses.
+- Resources can be free and paid.
 - Make sure to follow the format for resources i.e. name, links, and institute/person.
 - Resources can include YouTube channels, papers, blog posts, online courses, and book recommendations.
 
