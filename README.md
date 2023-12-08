@@ -80,11 +80,15 @@ There aren't many resources related to MLOps included in this repository since I
 
 [StatQuest with Josh Starmer](https://www.youtube.com/@statquest)
 
+[Lightning AI](https://www.youtube.com/@PyTorchLightning)
+
 [Sentdex](https://www.youtube.com/@sentdex)
 
 [Aleksa Gordić - The AI Epiphany](https://www.youtube.com/@TheAIEpiphany)
 
 [Yannic Kilcher](https://www.youtube.com/@YannicKilcher)
+
+[Connor Shorten](https://www.youtube.com/@connorshorten6311)
 
 ## Blogs
 [Google AI Blog](https://ai.googleblog.com/)
