@@ -15,7 +15,8 @@ This repository is open to all kinds of contributions related to the **machine l
 - Resources can include YouTube channels, papers, blog posts, online courses, and book recommendations.
 
 # Note 📝
-There aren't many resources related to MLOps included in this repository since I am planning to create a separate repository for that.
+- There aren't many resources related to MLOps included in this repository since I am planning to create a separate repository for that.
+-_ Practical resources and projects coming soon._
 
 # Some Tips 🔎
 - AI learning is a journey, not a sprint; success requires resisting impatience, embracing challenges, and fostering a deep understanding of AI principles despite the temptation for quick results.
