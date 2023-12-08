@@ -24,7 +24,7 @@ There aren't many resources related to MLOps included in this repository since I
 - Theory is vital, but true understanding comes from hands-on implementation; actively engage with knowledge, invest time in real-world problem-solving, and trust the process for profound insights.
 - AI success requires technical skills and more—embrace GitHub, Docker, diverse programming languages, paper-reading, cloud computing, project management, and strong writing/documentation for adaptability in the evolving industry.
 
-# Curriculum 📌
+# Main Curriculum 📌
 ## Foundations
 [AI for Everyone by Coursera](https://www.coursera.org/learn/ai-for-everyone)
 
@@ -52,6 +52,8 @@ OR
 [Machine Learning with PyTorch and Scikit-Learn by Sebastian Raschka , Yuxi (Hayden) Liu , Vahid Mirjalili](https://www.packtpub.com/product/machine-learning-with-pytorch-and-scikit-learn/9781801819312)
 
 [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow, 3rd Edition by Aurélien Géron](https://www.oreilly.com/library/view/hands-on-machine-learning/9781098125967/)
+
+---
 
 # Additional Resources 🗞️
 ## Courses
