@@ -55,7 +55,15 @@ OR
 
 # Additional Resources
 ## Courses
-[Deep Learning Specialization by DeepLearningAI](https://www.coursera.org/specializations/deep-learning
+[MIT Linear Algebra](https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/)
+
+[Statistics and Probability by Khan Academy](https://www.khanacademy.org/math/statistics-probability)
+
+[Essense of Linear Algebra by 3Blue1Brown](https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab&pp=iAQB)
+
+[Neural Networks: Zero to Hero by Andrej Karpathy](https://www.youtube.com/watch?v=VMj-3S1tku0&list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ&ab_channel=AndrejKarpathy)
+
+[Deep Learning Specialization by DeepLearningAI](https://www.coursera.org/specializations/deep-learning)
 
 [MIT 6.S191: Introduction to Deep Learning](https://www.youtube.com/watch?v=QDX-1M5Nj7s&list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI)
 
@@ -66,4 +74,15 @@ OR
 [Introduction to Reinforcement Learning by Deepmind](https://www.youtube.com/watch?v=2pWv7GOvuf0&list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ&ab_channel=GoogleDeepMind)
 
 [CS50’s Introduction to Artificial Intelligence with Python](https://pll.harvard.edu/course/cs50s-introduction-artificial-intelligence-python)
+
+## Youtube Channels
+[3Blue1Brown](https://www.youtube.com/@3blue1brown)
+
+[StatQuest with Josh Starmer](https://www.youtube.com/@statquest)
+
+[Sentdex](https://www.youtube.com/@sentdex)
+
+[Aleksa Gordić - The AI Epiphany](https://www.youtube.com/@TheAIEpiphany)
+
+[Yannic Kilcher](https://www.youtube.com/@YannicKilcher)
 
