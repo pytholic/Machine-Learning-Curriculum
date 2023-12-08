@@ -14,6 +14,11 @@ This repository is open to all kinds of contributions related to the **machine l
 - Make sure to follow the format for resources i.e. name, links, and institute/person.
 - Resources can include YouTube channels, papers, blog posts, online courses, and book recommendations.
 
+## How to contribute:
+- Fork this repository
+- Add your contribution (do not modify the original list)
+- Create Pull Request
+
 # Note 📝
 - There aren't many resources related to MLOps included in this repository since I am planning to create a separate repository for that.
 - *Practical resources and projects coming soon.*
