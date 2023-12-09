@@ -83,6 +83,10 @@ This repository is open to all kinds of contributions related to the **machine l
 
 [CS50’s Introduction to Artificial Intelligence with Python](https://pll.harvard.edu/course/cs50s-introduction-artificial-intelligence-python)
 
+[AI for Beginners by Microsoft](https://microsoft.github.io/AI-For-Beginners/)
+
+[A detailed list of courses by Aman Chadha](https://aman.ai/watch/)
+
 
 ## Youtube Channels
 [3Blue1Brown](https://www.youtube.com/@3blue1brown)
@@ -141,3 +145,14 @@ This repository is open to all kinds of contributions related to the **machine l
 [Alphasignal](https://alphasignal.ai/)
 
 [The Ai Edge](https://newsletter.theaiedge.io/)
+
+## Tutorials
+[PyTorch Tutorials](https://pytorch.org/tutorials/)
+
+[IBM Deep Learning Tutorials](https://developer.ibm.com/technologies/deep-learning/tutorials/)
+
+[Keras Code Examples](https://keras.io/examples/)
+
+[Huggingface Notebooks](https://huggingface.co/docs/transformers/notebooks)
+
+[UvA Deep Learning Tutorials](https://uvadlc-notebooks.readthedocs.io/en/latest/index.html)
