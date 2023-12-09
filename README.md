@@ -87,6 +87,8 @@ This repository is open to all kinds of contributions related to the **machine l
 
 [A detailed list of courses by Aman Chadha](https://aman.ai/watch/)
 
+[Machine Learning Crash Course by Google](https://developers.google.com/machine-learning/crash-course/ml-intro)
+
 
 ## Youtube Channels
 [3Blue1Brown](https://www.youtube.com/@3blue1brown)
