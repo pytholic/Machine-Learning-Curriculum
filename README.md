@@ -158,3 +158,6 @@ This repository is open to all kinds of contributions related to the **machine l
 [Huggingface Notebooks](https://huggingface.co/docs/transformers/notebooks)
 
 [UvA Deep Learning Tutorials](https://uvadlc-notebooks.readthedocs.io/en/latest/index.html)
+
+## Projects
+Visit my [website](https://pytholic-homepage.vercel.app/works) for some project ideas.
