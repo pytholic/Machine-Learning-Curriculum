@@ -109,6 +109,8 @@ This repository is open to all kinds of contributions related to the **machine l
 
 [Connor Shorten](https://www.youtube.com/@connorshorten6311)
 
+[Computerphile](https://www.youtube.com/@Computerphile)
+
 ## Blogs
 [Google AI Blog](https://ai.googleblog.com/)
 
@@ -170,9 +172,17 @@ Visit my [website](https://pytholic-homepage.vercel.app/works) for some project 
 ### Beginner
 ["Yes you should understand backprop" by Andrej Karpathy](https://karpathy.medium.com/yes-you-should-understand-backprop-e2f06eab496b)
 
-https://karpathy.medium.com/yes-you-should-understand-backprop-e2f06eab496b]
+["A Recipe for Training Neural Networks" by Andrej Karpathy](http://karpathy.github.io/2019/04/25/recipe/)
 
-### Advanced
+### Intermediate
+["The Unreasonable Effectiveness of Recurrent Neural Networks" by Andrej Karpathy](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)
+
 ["Understanding LSTM Networks" by Chris Olah](https://colah.github.io/posts/2015-08-Understanding-LSTMs/)
 
+["The Illustrated Transformer" by Jay Alammar](http://jalammar.github.io/illustrated-transformer/)
 
+## Advanced
+
+["Illustrating Reinforcement Learning from Human Feedback (RLHF)" by HuggingFace](https://huggingface.co/blog/rlhf)
+
+["RLHF: Reinforcement Learning from Human Feedback" by Chip Huyen](https://huyenchip.com/2023/05/02/rlhf.html)
