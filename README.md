@@ -172,6 +172,9 @@ This repository is open to all kinds of contributions related to the **machine l
 ## Projects
 Visit my [website](https://pytholic-homepage.vercel.app/works) for some project ideas.
 
+## Papers_
+*Coming soon.*
+
 ## Gold Blog Posts
 ### Beginner
 ["Yes you should understand backprop" by Andrej Karpathy](https://karpathy.medium.com/yes-you-should-understand-backprop-e2f06eab496b)
