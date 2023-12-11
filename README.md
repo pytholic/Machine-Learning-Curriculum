@@ -39,6 +39,7 @@ This repository is open to all kinds of contributions related to the **machine l
 [CS50’s Introduction to Computer Science](https://www.edx.org/learn/computer-science/harvard-university-cs50-s-introduction-to-computer-science)
 
 [Complete Python Developer: Zero to Mastery](https://zerotomastery.io/courses/learn-python/)
+
 *You can often find it on Udemy on sale.*
 
 ## Machine Learning
