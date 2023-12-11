@@ -38,9 +38,7 @@ This repository is open to all kinds of contributions related to the **machine l
 
 [CS50’s Introduction to Computer Science](https://www.edx.org/learn/computer-science/harvard-university-cs50-s-introduction-to-computer-science)
 
-[Complete Python Developer: Zero to Mastery](https://zerotomastery.io/courses/learn-python/)
-
-*You can often find it on Udemy on sale.*
+[Complete Python Developer: Zero to Mastery](https://zerotomastery.io/courses/learn-python/) (*You can often find it on Udemy on sale.*)
 
 ## Machine Learning
 [Machine Learning Specialization by DeepLearningAI x Stanford](https://www.coursera.org/specializations/machine-learning-introduction)
@@ -55,6 +53,8 @@ This repository is open to all kinds of contributions related to the **machine l
 [CS224N: Natural Language Processing with Deep Learning by Stanford](https://www.youtube.com/watch?v=rmVRLeJRkl4&list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ)
 
 [Full Stack Deep Learning](https://fullstackdeeplearning.com/course/2022/)
+
+[NumPy tutorial by Stanford CS231N](https://cs231n.github.io/python-numpy-tutorial/)
 
 # Reference Books 📂
 [Machine Learning with PyTorch and Scikit-Learn by Sebastian Raschka , Yuxi (Hayden) Liu , Vahid Mirjalili](https://www.packtpub.com/product/machine-learning-with-pytorch-and-scikit-learn/9781801819312)
