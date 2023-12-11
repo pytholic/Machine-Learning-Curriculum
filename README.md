@@ -181,8 +181,12 @@ Visit my [website](https://pytholic-homepage.vercel.app/works) for some project 
 
 ["The Illustrated Transformer" by Jay Alammar](http://jalammar.github.io/illustrated-transformer/)
 
+["Understanding and Coding the Self-Attention Mechanism of Large Language Models From Scratch" by Sebastian Raschka](https://sebastianraschka.com/blog/2023/self-attention-from-scratch.html)
+
 ## Advanced
 
 ["Illustrating Reinforcement Learning from Human Feedback (RLHF)" by HuggingFace](https://huggingface.co/blog/rlhf)
 
 ["RLHF: Reinforcement Learning from Human Feedback" by Chip Huyen](https://huyenchip.com/2023/05/02/rlhf.html)
+
+["The Illustrated Stable Diffusion" by Jay Alammar](https://jalammar.github.io/illustrated-stable-diffusion/)
