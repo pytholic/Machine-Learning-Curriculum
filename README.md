@@ -54,8 +54,6 @@ This repository is open to all kinds of contributions related to the **machine l
 
 [Full Stack Deep Learning](https://fullstackdeeplearning.com/course/2022/)
 
-[NumPy tutorial by Stanford CS231N](https://cs231n.github.io/python-numpy-tutorial/)
-
 # Reference Books 📂
 [Machine Learning with PyTorch and Scikit-Learn by Sebastian Raschka , Yuxi (Hayden) Liu , Vahid Mirjalili](https://www.packtpub.com/product/machine-learning-with-pytorch-and-scikit-learn/9781801819312)
 
@@ -153,6 +151,8 @@ This repository is open to all kinds of contributions related to the **machine l
 [The Ai Edge](https://newsletter.theaiedge.io/)
 
 ## Tutorials
+[NumPy tutorial by Stanford CS231N](https://cs231n.github.io/python-numpy-tutorial/)
+
 [PyTorch Tutorials](https://pytorch.org/tutorials/)
 
 [IBM Deep Learning Tutorials](https://developer.ibm.com/technologies/deep-learning/tutorials/)
