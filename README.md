@@ -91,6 +91,8 @@ This repository is open to all kinds of contributions related to the **machine l
 
 [Machine Learning Crash Course by Google](https://developers.google.com/machine-learning/crash-course/ml-intro)
 
+[Dive into Deep Learning](https://d2l.ai/)
+
 ## Books
 [Deep learning by Ian Goodfellow and Yoshua Bengio and Aaron Courville](https://www.deeplearningbook.org/)
 
