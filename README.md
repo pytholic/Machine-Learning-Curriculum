@@ -105,6 +105,8 @@ This repository is open to all kinds of contributions related to the **machine l
 
 [StatQuest with Josh Starmer](https://www.youtube.com/@statquest)
 
+[Andrej Karpathy](https://www.youtube.com/@AndrejKarpathy)
+
 [Lightning AI](https://www.youtube.com/@PyTorchLightning)
 
 [IBM Technology](https://www.youtube.com/@IBMTechnology)
