@@ -3,6 +3,8 @@ One question that has frequently come my way lately is, “_How can one embark 
 
 After careful consideration, I’ve crafted a straightforward yet potent A-to-Z curriculum. This guide is designed to be inclusive, catering to individuals with diverse backgrounds — whether they are newcomers to the field or professionals seeking a career shift. These resources can also be beneficial for advanced ML engineers who want to refresh some concepts.
 
+[Medium Blog](http://tinyurl.com/3rykdnfj)
+
 # Structure 🧩
 The structure of this guide is deliberate and includes a personally curated list of online courses. Since this repository is beginner-friendly, I only included important structured courses in the main curriculum because they are organized and easier to follow. Additional resources will be added in separate sections. Take the main curriculum courses in order for better understanding.
 
