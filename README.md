@@ -95,6 +95,8 @@ This repository is open to all kinds of contributions related to the **machine l
 
 [Dive into Deep Learning](https://d2l.ai/)
 
+[Applied Machine Learning by Cornell University](https://kuleshov-group.github.io/aml-book/intro.html)
+
 ## Books
 [Deep learning by Ian Goodfellow and Yoshua Bengio and Aaron Courville](https://www.deeplearningbook.org/)
 
