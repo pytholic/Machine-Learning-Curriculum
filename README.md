@@ -97,6 +97,8 @@ This repository is open to all kinds of contributions related to the **machine l
 
 [Applied Machine Learning by Cornell University](https://kuleshov-group.github.io/aml-book/intro.html)
 
+[Huggingface Computer Vision Course](https://huggingface.co/learn/computer-vision-course/en/unit0/welcome/welcome)
+
 ## Books
 [Deep learning by Ian Goodfellow and Yoshua Bengio and Aaron Courville](https://www.deeplearningbook.org/)
 
