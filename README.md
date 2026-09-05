@@ -156,6 +156,8 @@ This repository is open to all kinds of contributions related to the **machine l
 
 ## Newsletters
 
+[AI Weekly](https://aiweekly.co/) - Discover what AI experts are reading and sharing right now.
+
 [Ahead of AI](https://magazine.sebastianraschka.com/)
 
 [The Batch](https://www.deeplearning.ai/the-batch/)
